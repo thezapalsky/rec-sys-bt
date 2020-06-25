@@ -5,3 +5,6 @@ In data-driven world, it is difficult to filter only the content that we are int
 
 ## Abstrakt
 W dobie napływających z każdej strony informacji, ciężko filtrować te treści, które w szczególności nas interesują. Rozwiązaniem są systemy rekomendacji pomagające w doborze odpowiednich pozycji pasujących do naszego gustu. Szereg zastosowań wydaję się być nie ograniczony, począwszy od proponowanych produktów w sklepach internetowych, poprzez ranking wpisów w mediach społecznościowych, a na rekomendacjach filmowych kończąc. Za tymi modelami stoją algorytmy rekomendacji, których działanie zostanie w tej pracy bliżej przedstawione. Opisane zostaną m.in. algorytmy z rodziny najbliższych sąsiadów, techniki filtrowania zbiorowego, metody rozkładu macierzy niepełnych, czy algorytmy wykorzystujące  rekurencyjne sieci neuronowe. Dodatkowo przyblizonę będą metodyki ewaluacji tych modeli. Wspomniane teoretyczne zagadnienia zostaną przedstawione w badaniu empirycznym na danych filmowych. Stworzone zostaną różnorakie modele, które następnie będą porównane ze sobą w celu odnalezienia najlepszego rozwiązania oraz  finalnie wyciągnięcia wniosków z całości badania. 
+
+## Paper
+([PDF](https://github.com/thezapalsky/rec-sys-bt/blob/master/paper/praca.pdf))
